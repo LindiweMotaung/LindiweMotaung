@@ -91,3 +91,4 @@ Here are some of the key Full-Stack and Software Engineering projects I have wor
     <a href="https://github.com/LindiweMotaung"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 </div>
+
