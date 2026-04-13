@@ -81,6 +81,7 @@ Here are some of the key Full-Stack and Software Engineering projects I have wor
   * Network Essential planning and emulation using Packet Tracer.
 * ☁️ **Web Services & Data:** Working with Data Formats (XML/JSON) and building the Entrepreneurship Migration Module (web-service development).
 * ⚖️ **Professional Issues in ICT:** Ethical, legal, and professional implications in the IT industry.
+  
 
 ---
 
