@@ -1,7 +1,19 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Lindiwe Motaung</h1>
-  <h3>🚀 Full-Stack Software Engineer & Tech Enthusiast</h3>
-  <img src="https://komarev.com/ghpvc/?username=LindiweMotaung&color=blueviolet" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=LindiweMotaung&fontSize=60&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descSize=20&descAlignY=72&descAlign=50" alt="header banner" width="100%" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Elite+Full-Stack+Software+Engineer;Bridging+Front-End+and+Back-End;Passionate+about+Smart+Systems" alt="Typing SVG" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=LindiweMotaung&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LindiweMotaung?label=FOLLOWERS&style=for-the-badge&color=58A6FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/TOTAL_STARS-0-ffce00?style=for-the-badge" alt="Total Stars" />
+
+  <br><br>
+
+  <a href="https://github.com/LindiweMotaung"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-2ea043?style=for-the-badge" alt="Portfolio Live" /></a>
 </div>
 
 <br/>
