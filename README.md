@@ -80,6 +80,7 @@ Here are some of the key Full-Stack and Software Engineering projects I have wor
   * Virtual Machine Setup and Configuration for Windows 10, Ubuntu, and Windows 11.
   * Network Essential planning and emulation using Packet Tracer.
 * ☁️ **Web Services & Data:** Working with Data Formats (XML/JSON) and building the Entrepreneurship Migration Module (web-service development).
+* 🌿 **Eco Campus Smart System:** An Agile-managed smart campus sustainability project, applying Scrum methodology across planning, sprints, and delivery.
 * ⚖️ **Professional Issues in ICT:** Ethical, legal, and professional implications in the IT industry.
   
 
