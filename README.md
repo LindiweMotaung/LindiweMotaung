@@ -85,6 +85,17 @@ Here are some of the key Full-Stack and Software Engineering projects I have wor
 
 ---
 
+## 🐍 Contribution Snake & AI Animations
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LindiweMotaung/LindiweMotaung/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LindiweMotaung/LindiweMotaung/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LindiweMotaung/LindiweMotaung/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 <div align="center">
   <h3>Let's Connect & Build Something Awesome! 🌟</h3>
   <p>
