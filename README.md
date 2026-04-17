@@ -34,6 +34,7 @@ I'm a passionate **Full-Stack Software Engineer** focused on building end-to-end
 * ☕ **Core:** Java (J2EE), Python, .NET
 * 🔌 **Architecture:** Web Services, REST APIs
 * 🛡️ **Misc:** Software Security
+  * **Tools:** Wireshark (Network Protocol Analyzer)
 
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
