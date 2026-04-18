@@ -50,6 +50,12 @@ I'm a passionate **Full-Stack Software Engineer** focused on building end-to-end
 * 📠 **Hardware:** Arduino, Raspberry Pi
 * 🌡️ **Protocols & Integrations:** MQTT, Sensor Integration (Temperature, Motion), Smart Home Automation
 
+### 🎮 Game Development
+![Construct](https://img.shields.io/badge/Construct-333333?style=for-the-badge&logo=createreactapp&logoColor=white) ![SDG Goals](https://img.shields.io/badge/SDG_Compliant-0085C0?style=for-the-badge)
+* 👾 **Specialty:** Computer Game Programming
+* 🕹️ **Engine & Toolkit:** 2D Game Development using Construct
+* 🌍 **Social Impact Focus:** Designing and programming physics-based games dedicated to meeting the **Sustainable Development Goals (SDGs)**
+
 ---
 
 ## 🏗️ Agile (Scrum) Methodology
@@ -82,6 +88,7 @@ Here are some of the key Full-Stack and Software Engineering projects I have wor
   * Network Essential planning and emulation using Packet Tracer.
 * ☁️ **Web Services & Data:** Working with Data Formats (XML/JSON) and building the Entrepreneurship Migration Module (web-service development).
 * 🌿 **Eco Campus Smart System:** An Agile-managed smart campus sustainability project, applying Scrum methodology across planning, sprints, and delivery.
+* 🎮 **SDG-Compliant Physics Game:** Developed an interactive, purpose-driven 2D physics game using Construct, programmed specifically to promote and align with the UN Sustainable Development Goals (SDGs).
 * ⚖️ **Professional Issues in ICT:** Ethical, legal, and professional implications in the IT industry.
   
 
